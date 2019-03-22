@@ -1,0 +1,14 @@
+C:\Users\xj2397\code\Net_Core\App.API\bin\Debug\netcoreapp2.2\App.API.deps.json
+C:\Users\xj2397\code\Net_Core\App.API\bin\Debug\netcoreapp2.2\App.API.runtimeconfig.json
+C:\Users\xj2397\code\Net_Core\App.API\bin\Debug\netcoreapp2.2\App.API.runtimeconfig.dev.json
+C:\Users\xj2397\code\Net_Core\App.API\bin\Debug\netcoreapp2.2\App.API.dll
+C:\Users\xj2397\code\Net_Core\App.API\bin\Debug\netcoreapp2.2\App.API.pdb
+C:\Users\xj2397\code\Net_Core\App.API\obj\Debug\netcoreapp2.2\App.API.csprojAssemblyReference.cache
+C:\Users\xj2397\code\Net_Core\App.API\obj\Debug\netcoreapp2.2\App.API.csproj.CoreCompileInputs.cache
+C:\Users\xj2397\code\Net_Core\App.API\obj\Debug\netcoreapp2.2\App.API.RazorAssemblyInfo.cache
+C:\Users\xj2397\code\Net_Core\App.API\obj\Debug\netcoreapp2.2\App.API.RazorAssemblyInfo.cs
+C:\Users\xj2397\code\Net_Core\App.API\obj\Debug\netcoreapp2.2\App.API.AssemblyInfoInputs.cache
+C:\Users\xj2397\code\Net_Core\App.API\obj\Debug\netcoreapp2.2\App.API.AssemblyInfo.cs
+C:\Users\xj2397\code\Net_Core\App.API\obj\Debug\netcoreapp2.2\App.API.RazorTargetAssemblyInfo.cache
+C:\Users\xj2397\code\Net_Core\App.API\obj\Debug\netcoreapp2.2\App.API.dll
+C:\Users\xj2397\code\Net_Core\App.API\obj\Debug\netcoreapp2.2\App.API.pdb
