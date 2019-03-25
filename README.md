@@ -5,4 +5,7 @@ Makes a migration named your migration name
 Update or creates DB
 
 # dotnet watch run
-Runs your dotnet server
+Runs your dotnet server on localhost:5000
+
+# ng serve
+Run angular project on localhost:4200
